@@ -1,0 +1,3 @@
+Flixy TV Android/Google TV build trigger.
+Version: 1.0.0
+Site: https://flixy.xyz
